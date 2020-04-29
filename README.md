@@ -10,6 +10,7 @@ npm install
 
 # Install dependencies for client
 npm run client-install
+or go to client folder and do npm install
 
 # Run the client & server with concurrently
 npm run dev
